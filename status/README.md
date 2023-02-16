@@ -1,4 +1,5 @@
-![Studio_Project](https://user-images.githubusercontent.com/112836129/219386566-7eaecb6d-3f75-434f-ad2b-268ae775c08d.gif)
+![ezgif com-crop](https://user-images.githubusercontent.com/112836129/219387130-a77fb0fd-f12a-4c37-a226-118522544970.gif)
+
 
 ![Status](https://img.shields.io/badge/Project-Info-orange?style=for-the-badge)
 
