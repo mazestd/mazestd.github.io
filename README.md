@@ -6,11 +6,12 @@
 
 | Name          | Layout    | Socket Type   | Connector Interface   | KLE   | Status                    | Notes | Priority  |
 |---            | ---       | ---           | ---                   | ---   | ---                       | ---   | ---       |       
-| Poyori        | 60%       | Hotswap       | DB Only               |       | Final Shipping to cust    |       |           |
+| Poyori        | 60%       | Hotswap       | DB Only               |       | Final Shipping to cust    |       | ```High```|
 | 345.2         | 60 XT     | Solder        | DB Only               |       | Shipped from JLC          |       |           |
 | Alpha Series  | FRL       | Hotswap       | DB Only               |       | Shipped from JLC          |       |           |
 | A71           | 71%       | Hotswap       | DB Only               |       | Shipped from JLC          |       |           |
 | Sigma Series  | Alice FRL | Hotswap       | Type C                |       | Pending                   |       |           |
+| Delta Series  | IBM PC AT | Solder        | Type C                |       | Future Projet             |       |           |
 | Stellar       | HHKB 60   | Solder        | DB Only               |       | Pending                   |       |           |
 | 87.5 B        | TKL       | Solder        | Mini B                |       | WIP                       |       |           |
 | 87.5 BHS      | TKL       | Hotswap       | Mini B                |       | Pending                   |       |           |
