@@ -1,8 +1,6 @@
-## Maze Studio Project Site
+![Studio_Project](https://user-images.githubusercontent.com/112836129/219386566-7eaecb6d-3f75-434f-ad2b-268ae775c08d.gif)
 
 ![Status](https://img.shields.io/badge/Project-Info-orange?style=for-the-badge)
-
-![bpxxqqvps4h91](https://user-images.githubusercontent.com/112836129/219385615-3bd3fdc2-3d91-4b26-98cf-bbe5fbab1188.gif)
 
 ## Project & Commission Status
 
