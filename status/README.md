@@ -2,6 +2,8 @@
 
 ![Status](https://img.shields.io/badge/Project-Info-orange?style=for-the-badge)
 
+![bpxxqqvps4h91](https://user-images.githubusercontent.com/112836129/219385615-3bd3fdc2-3d91-4b26-98cf-bbe5fbab1188.gif)
+
 ## Project & Commission Status
 
 | Name          | Layout    | Socket Type   | Connector Interface   | KLE   | Status                    | Notes | Priority  |
