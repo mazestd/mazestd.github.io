@@ -6,7 +6,7 @@
 ## Project Commission Detail & Status
 
 | Name          | Layout    | Socket Type   | Connector Interface   | KLE   | Status                    | Notes | Priority  | ETA   | Cust ID   |
-|---            | ---       | ---           | ---                   | ---   | ---                       | ---   | ---       |       |           |         
+|---            | ---       | ---           | ---                   | ---   | ---                       | ---   | ---       | ---   | ---       |         
 | Poyori        | 60%       | Hotswap       | DB Only               |       | Final Shipping to cust    |       | ```High```|       |           |
 | 345.2         | 60 XT     | Solder        | DB Only               |       | Shipped from JLC          |       | ```Mid``` |       |           |
 | Alpha Series  | FRL       | Hotswap       | DB Only               |       | Shipped from JLC          |       | ```Mid``` |       |           |
