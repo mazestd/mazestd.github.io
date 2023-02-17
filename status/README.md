@@ -18,8 +18,8 @@
 | 87.5 BHS      | TKL       | Hotswap       | Mini B    |       |       | Pending                   | ![low][low]   |           |
 | 87.5 C        | TKL       | Solder        | Type C    |       |       | Pending                   | ![low][low]   |           |
 | 87.5 CHS      | TKL       | Hotswap       | Type C    |       |       | Pending                   | ![low][low]   |           |
-| Joker         | 1800      | Hotswap       | Type C    |       |       | Waiting for info          | ![mid][mid]   |           |
-| Kobo          | 65%       | Hotswap       | DB Only   |       |       | Shipped from JLC          | ![mid][mid]   |           |
+| Joker         | 1800      | Hotswap       | Type C    |       |       | Waiting for info          | ![mid][mid]   | Apr 2023  |
+| Kobo          | 65%       | Hotswap       | DB Only   |       |       | Shipped from JLC          | ![mid][mid]   | Mar 2023  |
 | 1800FRL       | 1800 FRL  | Hotswap       | DB Only   |       |       | Completed                 |               |           |
 | Jane V2 PCB   | TKL       | Hotswap       | Mini B    |       |       | Completed                 |               |           |
 | MazeXT        | 65 XT     | Hotswap       | DB Only   |       |       | Completed                 |               |           |
