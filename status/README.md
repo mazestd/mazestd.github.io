@@ -31,7 +31,7 @@
 
 
 
-[high]: https://img.shields.io/badge/High-red?style=for-the-badge&logoColor=white
-[mid]:  https://img.shields.io/badge/Mid-orange?style=for-the-badge&logoColor=white
-[low]:  https://img.shields.io/badge/Low-green?style=for-the-badge&logoColor=white
-[none]: https://img.shields.io/badge/None-grey?style=for-the-badge&logoColor=white
+[high]: https://img.shields.io/badge/High-red?style=flat-square&logoColor=white
+[mid]:  https://img.shields.io/badge/Mid-orange?style=flat-square&logoColor=white
+[low]:  https://img.shields.io/badge/Low-green?style=flat-square&logoColor=white
+[none]: https://img.shields.io/badge/None-grey?style=flat-square&logoColor=white
