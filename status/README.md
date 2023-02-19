@@ -12,7 +12,7 @@
 | Alpha Series  | FRL       | Hotswap       | DB Only   |       |       | Shipped from JLC          | ![mid][mid]   | Mar 2023  |
 | A71           | 71%       | Hotswap       | DB Only   |       |       | Shipped from JLC          | ![mid][mid]   | Mar 2023  |
 | Sigma Series  | Alice FRL | Hotswap       | Type C    |       |       | Pending                   | ![none][none] | Aug 2023  |
-| Delta Series  | IBM PC AT | Solder        | Type C    |       |       | Future Project            | ![none][none] | TBA       |
+| Delta Series  | IBM PC AT | Solder        | Type C    |       |       | Accidentally WIP            | ![none][none] | TBA       |
 | Stellar       | HHKB 60   | Solder        | DB Only   |       |       | Pending                   | ![low][low]   | Mar 2023  |
 | 87.5 B        | TKL       | Solder        | Mini B    |       |       | WIP                       | ![high][high] | Feb 2023  |
 | 87.5 BHS      | TKL       | Hotswap       | Mini B    |       |       | Pending                   | ![low][low]   |           |
