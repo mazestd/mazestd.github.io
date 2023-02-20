@@ -1,7 +1,7 @@
 [![ezgif com-crop](https://user-images.githubusercontent.com/112836129/219588647-7df5540a-0b92-4bc3-a057-9ec87a99493a.gif)](https://www.reddit.com/r/wallpaper/comments/wlz9uo/my_collection_of_8_bit_live_wallpaper_gifs/)
 
 
-![Status](https://img.shields.io/badge/Project-Info-orange?style=for-the-badge)
+[![Home](https://img.shields.io/badge/Dashboard-grey?style=for-the-badge)](https://mazestudio.github.io/)[![Status](https://img.shields.io/badge/Status-grey?style=for-the-badge)](https://mazestudio.github.io/status/)
 
 ## Project Commission Detail & Status
 
@@ -31,6 +31,10 @@
 
 
 
+<!-- Navigation -->
+
+
+<!-- Priority -->
 [high]: https://img.shields.io/badge/High-red?style=flat-square&logoColor=white
 [mid]:  https://img.shields.io/badge/Mid-orange?style=flat-square&logoColor=white
 [low]:  https://img.shields.io/badge/Low-green?style=flat-square&logoColor=white
