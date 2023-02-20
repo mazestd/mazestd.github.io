@@ -11,14 +11,14 @@
 | 345.2         | 60 XT     | Solder        | DB Only   |       |       | Shipped from JLC          | ![mid][mid]   | Mar 2023  |
 | Alpha Series  | FRL       | Hotswap       | DB Only   |       |       | Shipped from JLC          | ![mid][mid]   | Mar 2023  |
 | A71           | 71%       | Hotswap       | DB Only   |       |       | Shipped from JLC          | ![mid][mid]   | Mar 2023  |
-| Sigma Series  | Alice FRL | Hotswap       | Type C    |       |       | Pending                   | ![none][none] | Aug 2023  |
-| Delta Series  | IBM PC AT | Solder        | Type C    |       |       | Accidentally WIP            | ![none][none] | TBA       |
+| Sigma Series  | Alice FRL | Hotswap       | Type C    |       |       | WIP                       | ![none][none] | Aug 2023  |
+| Delta Series  | IBM PC AT | Solder        | Type C    |       |       | Accidentally WIP          | ![none][none] | TBA       |
 | Stellar       | HHKB 60   | Solder        | DB Only   |       |       | Pending                   | ![low][low]   | Mar 2023  |
-| 87.5 B        | TKL       | Solder        | Mini B    |       |       | WIP                       | ![high][high] | Feb 2023  |
+| 87.5 B        | TKL       | Solder        | Mini B    |       |       | Waiting for manufacturing | ![high][high] | Feb 2023  |
 | 87.5 BHS      | TKL       | Hotswap       | Mini B    |       |       | Pending                   | ![low][low]   |           |
 | 87.5 C        | TKL       | Solder        | Type C    |       |       | Pending                   | ![low][low]   |           |
 | 87.5 CHS      | TKL       | Hotswap       | Type C    |       |       | Pending                   | ![low][low]   |           |
-| Joker         | 1800      | Hotswap       | Type C    |       |       | Waiting for info          | ![mid][mid]   | Apr 2023  |
+| Joker         | 1800      | Hotswap       | Type C    |       |       | Waiting for manufacturing | ![mid][mid]   | Apr 2023  |
 | Kobo          | 65%       | Hotswap       | DB Only   |       |       | Shipped from JLC          | ![mid][mid]   | Mar 2023  |
 | 1800FRL       | 1800 FRL  | Hotswap       | DB Only   |       |       | Completed                 |               |           |
 | Jane V2 PCB   | TKL       | Hotswap       | Mini B    |       |       | Completed                 |               |           |
