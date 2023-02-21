@@ -7,7 +7,7 @@
 
 | Name          | Layout    | Socket Type   | Interface | KLE   | Notes | Status                    | Priority      | ETA       |
 |---            | ---       | ---           | ---       | ---   | ---   | ---                       | ---           | ---       |
-| Poyori        | 60%       | Hotswap       | DB Only   |       |       | Final Shipping to cust    | ![high][high] | Feb 2023  |
+| Poyori        | 60%       | Hotswap       | DB Only   |       |       | Pending Shipment          | ![high][high] | Feb 2023  |
 | 345.2         | 60 XT     | Solder        | DB Only   |       |       | Waiting for Assembly      | ![mid][mid]   | Mar 2023  |
 | Alpha Series  | FRL       | Hotswap       | DB Only   |       |       | Shipped from JLC          | ![mid][mid]   | Mar 2023  |
 | A71           | 71%       | Hotswap       | DB Only   |       |       | Shipped from JLC          | ![mid][mid]   | Mar 2023  |
