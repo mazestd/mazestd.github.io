@@ -15,7 +15,11 @@
         window.$docsify = {
             basePath: '/',
             name: 'Maze Studio',
-            search: 'auto', // default
+            search: {
+                paths: 'auto',
+                placeholder: {
+                    '/': 'Search'
+            },
             repo: 'https://github.com/mazestd/',
             loadSidebar: 'sidebar.md',
         }
