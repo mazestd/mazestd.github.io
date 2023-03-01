@@ -4,6 +4,5 @@
 
 ## Introduction
 
-( *Maze Studio* ) is a small organization run by 2 people ( Han's & 8X ) based in Jakarta. Focusing on PCB design on Mechanical Keyboards. The community have such big demand on PCB because this part was a brain of every single keyboard that can make an interaction with computer so you can type on it, and we realize on this market demand has such big potential to grow up a business
-
+*Maze Studio*  is a small organization run by 2 people ( Han's & 8X ) based in Jakarta, Focusing on PCB design on Mechanical Keyboards
 
