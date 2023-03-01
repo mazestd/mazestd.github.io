@@ -4,5 +4,5 @@
 
 ## Introduction
 
-*Maze Studio*  is a small organization run by 2 people ( Han's & 8X ) based in Jakarta, Focusing on PCB design on Mechanical Keyboards
+*Maze Studio*  is a small organization run by 2 people ( Han's & 8X ) based in Jakarta, Focusing on PCB Design of Mechanical Keyboards.
 
