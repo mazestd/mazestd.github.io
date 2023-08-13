@@ -40,7 +40,7 @@ PID : 0x4A03
 
 ## KLE & Matrix Preview
 
-![KLE_Preview](image.png)
+![KLE_Preview](./images/kle.png)
 
 ## Firmware Information
 ### QMK info.json
