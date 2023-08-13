@@ -1,9 +1,3 @@
-<style>
-    table {
-        width: 100%;
-    }
-</style>
-
 # Commission Report
 
 *This documentation was made to ensure all related function was implemented correctly, Customer has to check this document before making decision to be manufactured. Read this documentation mean customer agreed what included in the design and the result after manufacture proccess*
@@ -12,7 +6,7 @@
 ```
 Layout  : 60%
 Detail  : 60% layout with Split Backspace, Split Right-Shift, ANSI & Tsangan Bottom Row 
-KLE     : https://keyboard-layout-editor.com/20170asd09809812409as09d8
+KLE     : http://www.keyboard-layout-editor.com/#/gists/6fa035a3fe704e0498ff78a3c8003c5f
 ```
 
 ## Technical Specification
