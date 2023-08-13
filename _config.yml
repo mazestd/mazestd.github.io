@@ -1,2 +1,5 @@
-title: mazestudio.github.io
+title: ''
 markdown: GFM
+theme: minima
+minima:
+  skin: solarized-dark
