@@ -1,5 +1,3 @@
 title: ''
 markdown: GFM
-theme: minima
-minima:
-  skin: solarized-dark
+theme: minima-solarized
