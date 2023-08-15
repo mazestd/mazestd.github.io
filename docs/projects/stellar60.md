@@ -2,6 +2,7 @@
 
 ???+ warning "Disclaimer"
     *This documentation was made to ensure all related function was implemented correctly, Customer has to check this document before making decision to be manufactured. Read this documentation mean customer agreed what included in the design and the result after manufacture proccess*
+![PCB](images/pcb_stellar60.png)
 
 ## Requested Layout
 ```
@@ -41,8 +42,7 @@ PID : 0x4A03
 
 ## KLE & Matrix Preview
 
-![KLE_Preview](./images/kle.png)
-
+![KLE_Preview](./images/kle_stellar60.png)
 ## Firmware Information
 
  >Any firmware information would be updated after pcb has arrive or received by customer
