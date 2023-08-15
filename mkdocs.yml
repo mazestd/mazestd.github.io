@@ -1,0 +1,18 @@
+site_name: Maze Studio
+theme:
+  name: material
+  palette: 
+    primary: deep purple
+    scheme: slate
+  features:
+    - toc.integrate
+    - content.code.copy
+    - content.code.select
+
+markdown_extensions:
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+
+
+    
