@@ -1,10 +1,11 @@
 site_name: Maze Studio
 theme:
   name: material
+  custom_dir: docs/templates
   palette: 
-    primary: grey
+    primary: custom
     accent: deep orange
-    scheme: default
+    scheme: slate
   features:
     - toc.integrate
     - content.code.copy
@@ -23,6 +24,11 @@ markdown_extensions:
 plugins:
   - glightbox
   - search
+
+extra_css:
+  - stylesheets/extra.css
+
+
 
 nav:
   - Home: index.md
