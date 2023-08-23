@@ -5,7 +5,7 @@ theme:
   palette: 
     primary: custom
     accent: deep orange
-    scheme: slate
+    scheme: default
   features:
     - toc.integrate
     - content.code.copy
@@ -40,6 +40,8 @@ nav:
       - Option719: projects/option719.md
     - Commission:
       - Stellar60: projects/stellar60.md
+  - Blogs: 
+    - Getting Started: blog/getting_started_fusionpbx.md
 
 
 
