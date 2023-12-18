@@ -75,11 +75,6 @@ const config = {
             label: 'Documentation',
           },
           {
-            to: '/docs/category/keyboard',
-            label: 'Portofolio',
-            position: 'right'
-          },
-          {
             to: '/blog', 
             label: 'Blog', 
             position: 'right'
