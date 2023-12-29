@@ -86,10 +86,6 @@ const config = {
           },
         ],
       },
-      footer: {
-        style: 'light',
-        copyright: `Copyright © ${new Date().getFullYear()} Maze Studio. Built with <a href="https://docusaurus.io/" >Docusaurus </a>`,
-      },
       prism: {
         theme: prismThemes.palenight,
         darkTheme: prismThemes.palenight,
